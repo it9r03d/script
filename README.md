@@ -1,1 +1,1 @@
-# script
+script, config, setting -files
